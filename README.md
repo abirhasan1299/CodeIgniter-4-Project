@@ -61,3 +61,17 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+
+  ![Screenshot 2024-04-30 232947](https://github.com/abirhasan1299/CodeIgniter-4-Project/assets/71751671/3540c6cd-4eb7-4190-a452-7593210ed3be)
+  ![Screenshot 2024-04-30 233009](https://github.com/abirhasan1299/CodeIgniter-4-Project/assets/71751671/9c79d7ad-6286-4d71-8422-381a6b9f7aba)
+  ![Screenshot 2024-04-30 233036](https://github.com/abirhasan1299/CodeIgniter-4-Project/assets/71751671/51f43dac-56f0-493c-a0b0-5142bc46990a)
+  ![Screenshot 2024-05-31 154225](https://github.com/abirhasan1299/CodeIgniter-4-Project/assets/71751671/77a67b1e-473c-4021-a2a9-7c7f568b1523)
+![Screenshot 2024-05-31 154155](https://github.com/abirhasan1299/CodeIgniter-4-Project/assets/71751671/915cdff1-f8aa-457f-81a7-b7a3c21cec01)
+![Screenshot 2024-05-31 154155](https://github.com/abirhasan1299/CodeIgniter-4-Project/assets/71751671/5fff2814-9fee-4af5-af96-a357ba540b90)
+![Screenshot 2024-05-31 154111](https://github.com/abirhasan1299/CodeIgniter-4-Project/assets/71751671/c0e5e607-6f96-4c26-ae95-0b2074994b26)
+![Screenshot 2024-04-30 233349](https://github.com/abirhasan1299/CodeIgniter-4-Project/assets/71751671/cc767d71-f2e2-4724-ae85-845a3a75fc0a)
+![Screenshot 2024-04-30 233210](https://github.com/abirhasan1299/CodeIgniter-4-Project/assets/71751671/f51e7565-e094-47cb-b9f0-d90e05e9d380)
+
+
+
+
