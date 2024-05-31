@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+@font-face {
+    font-family: lora;
+    src: url('../fonts/Lora/static/Lora-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: LoraRegular;
+    src: url('../fonts/Lora/static/Lora-Regular.ttf') format('truetype');
+}
+
+body {
+    font-family: LoraRegular;
+}
+#third {
+    background: #E6F8EF;
+    margin-top: 20px;
+}
+
+.more {
+    padding: 30px;
+}
+
+.more h1 {
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.video video {
+    margin-top: 40px;
+    width: 500px;
+    height: 400px;
+}
+#Read {
+    width: 200px;
+    height: 50px;
+    background: #019147;
+    color: ghostwhite;
+    font-family: lora;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+}
+#first{
+    background: #019147;
+    padding:20px;
+}
+#search{
+    border: none;
+    padding: 10px;
+    
+}
+.p h1{
+    color:ghostwhite;
+}

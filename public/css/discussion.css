@@ -1,0 +1,87 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+@font-face {
+    font-family: lora;
+    src: url('../fonts/Lora/static/Lora-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: LoraRegular;
+    src: url('../fonts/Lora/static/Lora-Regular.ttf') format('truetype');
+}
+
+body {
+    font-family: LoraRegular;
+}
+.search{
+    width: 100%;
+    padding:20px;
+    margin-top: 2%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #019147;
+}
+.search h3{
+    color:#E6F8EF;
+}
+::placeholder{
+    color:white;
+}
+.search input{
+    width: 100%;
+    border: none;
+    padding: 10px;
+    border-bottom: 2px solid #FF9822;
+    border-radius: 0px;
+    background-color: #019147;
+    color:yellow;
+}
+.box {
+    width: 100%;
+    border: none;
+    border-radius: 20px;
+    padding: 50px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+}
+#Read {
+    width: 200px;
+    height: 50px;
+    background: #019147;
+    color: ghostwhite;
+    font-family: lora;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+}
+.search input:focus{
+    outline:none;
+}
+.recent{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 5%;
+    padding:20px;
+}
+.recent_box{
+    padding:10px;
+}
+#x{
+    width:50%;
+}
+.image{
+    border:2px solid #FF9822;
+    border-radius: 10px;
+}
+.title{
+    padding:5px;
+}
+.title a{
+    text-decoration: none;
+    color:teal;
+    font-weight: bolder;
+    font-size:14px
+}
+.title a:hover{
+    color:burlywood;
+}

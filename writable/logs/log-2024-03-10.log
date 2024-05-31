@@ -1,0 +1,305 @@
+CRITICAL - 2024-03-10 05:57:33 --> ErrorException: Undefined variable $data
+in APPPATH/Views/admin/post-control.php on line 25.
+ 1 APPPATH/Views/admin/post-control.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 25)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control')
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 05:57:38 --> ErrorException: Undefined variable $data
+in APPPATH/Views/admin/post-control.php on line 25.
+ 1 APPPATH/Views/admin/post-control.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 25)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control')
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 05:58:29 --> ErrorException: Undefined variable $data
+in APPPATH/Views/admin/post-control.php on line 25.
+ 1 APPPATH/Views/admin/post-control.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 25)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control')
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 05:58:30 --> ErrorException: Undefined variable $data
+in APPPATH/Views/admin/post-control.php on line 25.
+ 1 APPPATH/Views/admin/post-control.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 25)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control')
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 05:58:32 --> ErrorException: Undefined variable $data
+in APPPATH/Views/admin/post-control.php on line 25.
+ 1 APPPATH/Views/admin/post-control.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 25)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control')
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 05:58:35 --> ErrorException: Undefined variable $data
+in APPPATH/Views/admin/post-control.php on line 25.
+ 1 APPPATH/Views/admin/post-control.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 25)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control')
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 05:58:37 --> ErrorException: Undefined variable $data
+in APPPATH/Views/admin/post-control.php on line 25.
+ 1 APPPATH/Views/admin/post-control.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 25)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control')
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-03-10 05:59:31 --> mysqli_sql_exception: Unknown column 'pid' in 'order clause' in /home/vol9_7/epizy.com/epiz_33958112/htdocs/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/vol9_7/epizy.com/epiz_33958112/htdocs/system/Database/MySQLi/Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 /home/vol9_7/epizy.com/epiz_33958112/htdocs/system/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home/vol9_7/epizy.com/epiz_33958112/htdocs/system/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home/vol9_7/epizy.com/epiz_33958112/htdocs/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home/vol9_7/epizy.com/epiz_33958112/htdocs/system/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/vol9_7/epizy.com/epiz_33958112/htdocs/system/BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 /home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Controllers/Admin.php(21): CodeIgniter\BaseModel->findAll()
+#7 /home/vol9_7/epizy.com/epiz_33958112/htdocs/system/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+#8 /home/vol9_7/epizy.com/epiz_33958112/htdocs/system/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 /home/vol9_7/epizy.com/epiz_33958112/htdocs/system/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home/vol9_7/epizy.com/epiz_33958112/htdocs/index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-03-10 05:59:31 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pid' in 'order clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 647.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `writer`
+ORDER BY `pid` DESC', [], false)
+ 2 SYSTEMPATH/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH/Controllers/Admin.php(21): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 6 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 05:59:31 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pid' in 'order clause'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 311.
+ 1 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `writer`
+ORDER BY `pid` DESC')
+ 2 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `writer`
+ORDER BY `pid` DESC')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `writer`
+ORDER BY `pid` DESC', [], false)
+ 4 SYSTEMPATH/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH/Controllers/Admin.php(21): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 8 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 05:59:31 --> [Caused by] mysqli_sql_exception: Unknown column 'pid' in 'order clause'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 306.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(306): mysqli->query('SELECT *
+FROM `writer`
+ORDER BY `pid` DESC', 0)
+ 2 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `writer`
+ORDER BY `pid` DESC')
+ 3 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `writer`
+ORDER BY `pid` DESC')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `writer`
+ORDER BY `pid` DESC', [], false)
+ 5 SYSTEMPATH/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH/Controllers/Admin.php(21): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 9 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+10 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 06:00:20 --> ErrorException: Undefined variable $data
+in APPPATH/Views/admin/post-control.php on line 25.
+ 1 APPPATH/Views/admin/post-control.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 25)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control')
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 06:00:22 --> ErrorException: Undefined variable $data
+in APPPATH/Views/admin/post-control.php on line 25.
+ 1 APPPATH/Views/admin/post-control.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 25)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control')
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 06:00:23 --> ErrorException: Undefined variable $data
+in APPPATH/Views/admin/post-control.php on line 25.
+ 1 APPPATH/Views/admin/post-control.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 25)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control')
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 06:00:27 --> ErrorException: Undefined variable $data
+in APPPATH/Views/admin/post-control.php on line 25.
+ 1 APPPATH/Views/admin/post-control.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 25)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control')
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 06:00:55 --> ErrorException: Undefined variable $data
+in APPPATH/Views/admin/post-control.php on line 25.
+ 1 APPPATH/Views/admin/post-control.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 25)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control')
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 06:01:18 --> ErrorException: Undefined variable $data
+in APPPATH/Views/admin/post-control.php on line 25.
+ 1 APPPATH/Views/admin/post-control.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 25)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control')
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 06:01:59 --> ErrorException: Undefined array key "date"
+in APPPATH/Views/admin/post-control.php on line 30.
+ 1 APPPATH/Views/admin/post-control.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "date"', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 30)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 06:02:23 --> ErrorException: Undefined array key "time"
+in APPPATH/Views/admin/post-control.php on line 30.
+ 1 APPPATH/Views/admin/post-control.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "time"', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 30)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 06:02:27 --> ErrorException: Undefined array key "time"
+in APPPATH/Views/admin/post-control.php on line 30.
+ 1 APPPATH/Views/admin/post-control.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "time"', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 30)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 06:04:01 --> ErrorException: Undefined array key ""
+in APPPATH/Views/admin/post-control.php on line 30.
+ 1 APPPATH/Views/admin/post-control.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key ""', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 30)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 06:06:36 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH/Views/admin/post-control.php on line 28.
+ 1 APPPATH/Views/admin/post-control.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 28)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 06:06:38 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH/Views/admin/post-control.php on line 28.
+ 1 APPPATH/Views/admin/post-control.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 28)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-10 06:06:41 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH/Views/admin/post-control.php on line 28.
+ 1 APPPATH/Views/admin/post-control.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', '/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php', 28)
+ 2 SYSTEMPATH/View/View.php(228): include('/home/vol9_7/epizy.com/epiz_33958112/htdocs/app/Views/admin/post-control.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('admin/post-control', [], true)
+ 5 APPPATH/Controllers/Admin.php(23): view('admin/post-control', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Admin->postControl()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-10 06:17:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:17:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:18:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:18:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:26:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:26:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:26:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:27:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:27:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:27:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:31:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:31:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:31:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:31:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-10 06:32:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
